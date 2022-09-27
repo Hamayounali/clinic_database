@@ -1,7 +1,8 @@
 ## Clinic_Database
 
+![clinic diagram](./clinic_diagram.png)
 
-This is a relational database to create the data structure for a clinic. 
+This is a relational database to create the data structure for a clinic.
 
 ## Getting Started
 
